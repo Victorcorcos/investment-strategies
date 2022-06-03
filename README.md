@@ -1,9 +1,9 @@
-# Factor Investing 🪄
+# Investment Strategies 📚
 
 A repository dedicated to save the results of investment strategies created by the most sucessful investors.
 
 
-# Main Strategies 1️⃣
+## Main Strategies 1️⃣
 
 * Benjamin Graham
 * Decio Bazin
@@ -16,7 +16,7 @@ A repository dedicated to save the results of investment strategies created by t
 * Joseph Piotroski
 
 
-# Other Strategies 2️⃣
+## Other Strategies 2️⃣
 
 * Graham Deep Value
 * Graham Bazin
